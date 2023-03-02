@@ -1,0 +1,3 @@
+Attempting to implement the conventional MAC found in the paper "A High Performance Multiply-Accumulate Unit with Double Carry-Save
+Scheme for 6-Input LUT Based Reconfigurable Systems" by Ugur Cini and Olcay Kurt.
+https://www.emo.org.tr/ekler/163ced2de82de21_ek.pdf
